@@ -25,3 +25,4 @@ I’m a data enthusiast with a background in marketing and business strategy, ex
 
 - [LinkedIn](https://www.linkedin.com/in/shimanga-mubitana/)
 - [Twitter](https://twitter.com/shimangam)
+-  [Tableau](https://public.tableau.com/app/profile/shimanga.mubitana/vizzes)
