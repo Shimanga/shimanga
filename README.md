@@ -1,6 +1,7 @@
-# 👋🏽 Hi, I'm Shimanga Mubitana
+# 👋🏽 Hi, My name is Shimanga Mubitana
 
-I’m a data enthusiast with a background in marketing and business strategy.
+I’m a data enthusiast with a background in marketing and business strategy, exploring how data, climate risk, and financial modeling can transform agricultural markets in Africa.
+
 
 ## 📁 My Portfolios
 
