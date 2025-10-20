@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋🏽 Hi, I'm Shimanga Mubitana
 
-<!--
-**Shimanga/shimanga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a data enthusiast with a background in marketing and business strategy.
 
-Here are some ideas to get you started:
+## 📁 My Portfolios
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Data Analysis Portfolio**  
+👉 [Visit Site](https://your-data-portfolio-site-link)
+
+**Marketing Portfolio**  
+👉 [Visit Site](https://your-marketing-portfolio-site-link)
+
+## 💼 What I Do
+
+- 📊 Analyze and visualize data (SQL, Excel, Tableau)
+- 📈 Build marketing strategies for small businesses and farmers
+- 🌱 Advocate for smart agriculture in Zambia
+
+## 📫 Let’s Connect
+
+- [LinkedIn](https://www.linkedin.com/in/your-link/)
+- [Twitter](https://twitter.com/yourhandle)
