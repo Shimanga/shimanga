@@ -2,6 +2,7 @@
 
 I’m a data enthusiast with a background in marketing and business strategy, exploring how data, climate risk, and financial modeling can transform agricultural markets in Africa.
 
+https://github.com/Shimanga/shimanga/blob/4a6a66a28594eb3fe3ce99a1448fa69bf09037ed/graph-14988_512.gif 
 
 ## 📁 My Portfolios
 
