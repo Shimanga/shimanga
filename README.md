@@ -9,7 +9,7 @@ I’m a data enthusiast with a background in marketing and business strategy, ex
 👉 [Visit Site](https://your-data-portfolio-site-link)
 
 **Marketing Portfolio**  
-👉 [Visit Site](https://your-marketing-portfolio-👉 [Visit Site](https://shimanga.github.io/Marketing-Portfolio/))
+👉 [Visit Site](https://shimanga.github.io/Marketing-Portfolio))
 
 ## 💼 What I Do
 
