@@ -13,7 +13,11 @@ I’m a data enthusiast with a background in marketing and business strategy, ex
 
 ## 💼 What I Do
 
-- 📊 Analyze and visualize data (SQL, Excel, Tableau)
+- 📊 Analyze and visualize data using SQL, Excel, Tableau, and Python  
+- 🌱 Apply data insights to agriculture and agritech markets  
+- 🌾 Model climate risk and production challenges for farmers  
+- 💰 Build financial models and market forecasts to guide decision-making  
+- 🔍 Solve complex problems and turn messy data into actionable insights
 - 📈 Build marketing strategies for small businesses and farmers
 - 🌱 Advocate for smart agriculture in Zambia
 
