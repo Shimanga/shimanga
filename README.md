@@ -7,7 +7,7 @@ I’m a data enthusiast with a background in marketing and business strategy, ex
 ## 📁 My Portfolios
 
 **Data Analysis Portfolio**  
-👉 [Visit Site](https://your-data-portfolio-site-link)
+👉 [Visit Site](https://github.com/Shimanga/Zambia-Soya-Beans-Export-Pulse)
 
 **Marketing Portfolio**  
 👉 [Visit Site](https://shimanga.github.io/Marketing-Portfolio))
